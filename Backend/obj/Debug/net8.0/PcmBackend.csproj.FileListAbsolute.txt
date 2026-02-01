@@ -1,0 +1,416 @@
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\appsettings.json
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.exe
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.deps.json
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.runtimeconfig.json
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.pdb
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Humanizer.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.CodeDom.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.Composition.Convention.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.csproj.AssemblyReference.cache
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.GeneratedMSBuildEditorConfig.editorconfig
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfoInputs.cache
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfo.cs
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.csproj.CoreCompileInputs.cache
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cs
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cache
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\staticwebassets.build.json
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\staticwebassets.development.json
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\scopedcss\bundle\PcmBackend.styles.css
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.csproj.Up2Date
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\refint\PcmBackend.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.pdb
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.genruntimeconfig.cache
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\ref\PcmBackend.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+d:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\bin\Debug\net8.0\PcmBackend.staticwebassets.endpoints.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\PcmBackend.sourcelink.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Mobile\bai_kiem_tra_nang_cao\Backend\obj\Debug\net8.0\swae.build.ex.cache
+D:\Mobile App\Backend\bin\Debug\net8.0\appsettings.json
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.staticwebassets.endpoints.json
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.exe
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.deps.json
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.runtimeconfig.json
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\PcmBackend.pdb
+D:\Mobile App\Backend\bin\Debug\net8.0\Humanizer.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Mobile App\Backend\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.csproj.AssemblyReference.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfoInputs.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfo.cs
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.csproj.CoreCompileInputs.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.sourcelink.json
+D:\Mobile App\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Mobile App\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Mobile App\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Mobile App\Backend\obj\Debug\net8.0\scopedcss\bundle\PcmBackend.styles.css
+D:\Mobile App\Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mobile App\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mobile App\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Mobile App\Backend\obj\Debug\net8.0\swae.build.ex.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.csproj.Up2Date
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.dll
+D:\Mobile App\Backend\obj\Debug\net8.0\refint\PcmBackend.dll
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.pdb
+D:\Mobile App\Backend\obj\Debug\net8.0\PcmBackend.genruntimeconfig.cache
+D:\Mobile App\Backend\obj\Debug\net8.0\ref\PcmBackend.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\appsettings.json
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.staticwebassets.endpoints.json
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.exe
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.deps.json
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.runtimeconfig.json
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\PcmBackend.pdb
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Humanizer.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Study\MobileApp\Backend\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.csproj.AssemblyReference.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfoInputs.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.AssemblyInfo.cs
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.csproj.CoreCompileInputs.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\scopedcss\bundle\PcmBackend.styles.css
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\swae.build.ex.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.csproj.Up2Date
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.dll
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\refint\PcmBackend.dll
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.pdb
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.genruntimeconfig.cache
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\ref\PcmBackend.dll

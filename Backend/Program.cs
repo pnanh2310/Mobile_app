@@ -189,5 +189,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 app.MapHub<PcmHub>("/hubs/pcm");
-
+app.MapGet("/health", () => Results.Ok("Healthy"));
 app.Run();

@@ -7,6 +7,7 @@ RUN dotnet restore "./PcmBackend.csproj"
 COPY . .
 WORKDIR "/src/."
 RUN dotnet build "PcmBackend.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
 # Stage 2: Publish
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
@@ -16,5 +17,7 @@ RUN dotnet publish "PcmBackend.csproj" -c $BUILD_CONFIGURATION -o /app/publish /
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+# Render sẽ cấp biến môi trường PORT, ta bind vào đó
+ENV ASPNETCORE_URLS=http://+:${PORT}
 EXPOSE 8080
 ENTRYPOINT ["dotnet", "PcmBackend.dll"]

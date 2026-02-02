@@ -414,3 +414,4 @@ D:\Study\MobileApp\Backend\obj\Debug\net8.0\refint\PcmBackend.dll
 D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.pdb
 D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.genruntimeconfig.cache
 D:\Study\MobileApp\Backend\obj\Debug\net8.0\ref\PcmBackend.dll
+D:\Study\MobileApp\Backend\obj\Debug\net8.0\PcmBackend.sourcelink.json

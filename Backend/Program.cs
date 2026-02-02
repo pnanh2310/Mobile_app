@@ -10,8 +10,10 @@ using PcmBackend.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Force backend to listen on HTTP port 5000
-builder.WebHost.UseUrls("http://localhost:5000", "http://0.0.0.0:5000");
+// ❌ KHÔNG ép port ở Program.cs
+// Port sẽ do:
+// - dotnet run        → launchSettings.json
+// - Docker container  → ASPNETCORE_URLS
 
 // ==================== Database Configuration ====================
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -30,7 +32,8 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 .AddDefaultTokenProviders();
 
 // ==================== JWT Configuration ====================
-var jwtKey = builder.Configuration["Jwt:Key"] ?? "YourDefaultSecretKey123456789012345678901234";
+var jwtKey = builder.Configuration["Jwt:Key"] 
+             ?? "YourDefaultSecretKey123456789012345678901234";
 var jwtIssuer = builder.Configuration["Jwt:Issuer"] ?? "PcmBackend";
 var jwtAudience = builder.Configuration["Jwt:Audience"] ?? "PcmMobileApp";
 
@@ -59,7 +62,8 @@ builder.Services.AddAuthentication(options =>
         {
             var accessToken = context.Request.Query["access_token"];
             var path = context.HttpContext.Request.Path;
-            if (!string.IsNullOrEmpty(accessToken) && path.StartsWithSegments("/hubs/pcm"))
+            if (!string.IsNullOrEmpty(accessToken) &&
+                path.StartsWithSegments("/hubs/pcm"))
             {
                 context.Token = accessToken;
             }
@@ -143,10 +147,7 @@ using (var scope = app.Services.CreateScope())
         var userManager = services.GetRequiredService<UserManager<IdentityUser>>();
         var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
 
-        // Apply migrations
         context.Database.Migrate();
-
-        // Seed data
         await DbSeeder.SeedAsync(context, userManager, roleManager);
     }
     catch (Exception ex)
@@ -157,7 +158,6 @@ using (var scope = app.Services.CreateScope())
 }
 
 // ==================== Middleware Pipeline ====================
-// Enable Swagger in all environments for testing
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
@@ -165,9 +165,9 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = "swagger";
 });
 
-// app.UseHttpsRedirection(); // Disabled for development - allow HTTP
+// app.UseHttpsRedirection(); // ❌ disable for Docker HTTP
 
-// Handle CORS preflight OPTIONS requests
+// Handle CORS preflight OPTIONS
 app.Use(async (context, next) =>
 {
     if (context.Request.Method == "OPTIONS")
